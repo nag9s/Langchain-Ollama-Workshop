@@ -1,0 +1,7 @@
+# https://docs.smith.langchain.com/observability/how_to_guides/trace_with_langchain
+export LANGSMITH_TRACING=true
+export LANGSMITH_API_KEY=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
+# This example uses OpenAI, but you can use any LLM provider of choice
+# export OPENAI_API_KEY=<your-openai-api-key>
+LANGSMITH_ENDPOINT=https://api.smith.langchain.com
+LANGSMITH_PROJECT=demo_introduction_proj
