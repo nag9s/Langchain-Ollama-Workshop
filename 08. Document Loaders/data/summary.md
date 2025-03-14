@@ -1,132 +1,185 @@
 Here are the extracted stock market news:
 
-1. **Avenue Supermarts Share Price**: The stock saw a sharper decline and is now trading below its 200-day exponential moving average (DEMA). It had attempted to hold above this level but dropped following a disappointing second-quarter performance.
-2. **Elcid Share Price Surge**: Elcid's share price skyrocketed 66,92,535%, climbing from Rs 3.53 to Rs 2,36,250. This impressive surge has made Elcid India's most expensive stock, surpassing MRF, which closed at Rs 1,22,576 per share on Tuesday.
-3. **EFC secures SM REIT approval**: EFC (I) Limited's subsidiary received SEBI approval for SM REIT, enabling a ₹500 crore initial offer. The company reported a 230.26% profit increase, boosting its growth potential.
-4. **Auto stocks cooling down**: Cooling is a part of long journey of structural change; 7 auto stocks with an upside potential of up to 38%.
-5. **NSE crosses 20 crore client accounts**: The National Stock Exchange (NSE) announced it had exceeded 20 crore client accounts in October, marking a growth of 3.1 crore in the past eight months.
-6. **Elcid shares are worth more than Nvidia and FANG stocks combined**: On Tuesday, Elcid's share price surged from Rs 3.53 to an astounding Rs 2,36,250, setting a record on D-Street and making it India's most expensive stock, surpassing MRF's Rs 1.2 lakh.
-7. **Elcid Investments: The microcap stock which paid dividend 7 times its share price**: In FY24, the company gave a dividend of Rs 25 in FY24, which translates into an industry best dividend yield of over 708%.
-8. **Cipla, Voltas among 5 stocks with short buildup**: A short buildup occurs when there is a rise in open interest and trading volumes, coupled with a decrease in the price of the underlying stock in the Futures and Options segment.
-9. **Marico shares surge 9% after reporting 20% YoY jump in Q2 PAT**: Marico's share price surged 9% after reporting a 20% year-on-year (YoY) jump in second-quarter profit after tax (PAT).
+1. Asia shares rose on Friday, driven by the likely aversion of a U.S. government shutdown which boosted market sentiment.
+2. Gold hit a record high as trade tensions escalated, prompting investors to seek safe-haven assets.
+3. U.S. stock futures surged in response to the positive news from Congress.
+4. India’s RAC industry is witnessing strong demand in FY25 despite compressor shortages.
+5. Manufacturers have managed supply issues through alternative sourcing and inventory management.
+6. The Indian AC market is expected to grow at a 19% CAGR, with industry players seeking BIS certification extensions for key components.
+7. Asia hedge funds performed better than U.S. counterparts during the March market selloff due to the strong performance of Chinese stocks.
+8. Global and U.S. hedge funds faced significant losses, while Asia funds experienced smaller declines.
+9. India’s stock market is cautious despite slide, with Bernstein predicting no upside in the Indian market.
+10. Six Indian stocks identified by MarketSmith fit William J. O'Neil's proven investing strategy:
+   a. Jaiprakash Associates
+   b. Gensol Engineering
+   c. IndiGo
+   d. SpiceJet
+   e. Voltas
+   f. Amber Enterprise
 
-Unfortunately, I don't see any text provided in your request. Please copy and paste the text you'd like me to extract stock market news from, and I'll be happy to assist you!
+These are the extracted news articles related to stock market and Indian stocks.
 
-Here is the extracted stock market news:
+Here are the stock market news extracted from the text:
 
-**Gainers & Losers**
+**Gains**
 
-* Top Gainers:
-	+ Maruti Suzuki India share price 11,243.55 (up 11,771.47%)
-	+ Ultratech Cement share price 11,214.60 (-0.89%)
-	+ ITC share price 491.80 (-0.79%)
-	+ Larsen & Toubro share price 3,405.50 (-0.73%)
-* Top Losers:
-	+ Infosys share price 1,803.40 (-1.92%)
-	+ HCL Technologies share price 1,836.90 (-1.90%)
-	+ ICICI Bank share price 1,310.00 (-1.68%)
-	+ Mahindra & Mahindra share price 2,702.65 (-1.48%)
+* BEL Share Price: up 3.25% to 280.07
+* IREDA Share Price: up 1.36% to 139.85
+* YES Bank Share Price: up 0.25% to 16.19
+* HDFC Bank Share Price: down 0.27% to 1706.60, but shares are still strong due to positive earnings
+* Tata Power Share Price: down 1.55% to 350.75
+* BEL Share Price: up 1.18%
+* BHEL Share Price: down 0.16%, but shares are still strong due to positive earnings
+* Infosys Share Price: down 0.7% to 1579.85, but shares are expected to bounce back due to positive earnings
+* IRCTC Share Price: down 1.32%
+* ITC Share Price: down 0.09%
+* TCS Share Price: up 0.14%
 
-**Active Stocks**
+**Losses**
 
-* Tata Motors share price 840.00 (down 0.36%)
-* Tata Steel share price 148.90 (down 0.77%)
-* Wipro share price 563.60 (up 0.25%)
-* Power Grid Corporation Of India share price 318.65 (down 0.62%)
-* NTPC share price 408.05 (down 1.02%)
+* PayTM Share Price: down 2.73% to 682.85
+* Tata Motors Share Price: down 1.92% to 655.50
+* RIL Share Price: down 0.73% to 1247.90
+* HAL Share Price: down 0.57% to 3396.15
+* JP Power Share Price: down 1.54%
+* NBCC Share Price: down 1.55%
+* Tata Steel Share Price: down 0.39% to 150.88
+* Reliance Power Share Price: down 0.75% to 33.39
+* Tata Technologies Share Price: down 0.83% to 636.80
 
-Note: The "up" or "down" indicators indicate the percentage change in stock prices, and are subject to change over time.
+**Other News**
 
-I can't help with that.
+* Adani Power Share Price: down 0.07%
+* Jio Financial Services Share Price: down 1.3% to 222.60
+* LIC Share Price: up 0.59% to 740.15
+* Vedanta Share Price: down 0.45% to 442.95
 
 Here's the extracted stock market news:
 
-* Force Motors hits 20% upper circuit on healthy Q2FY25 results
-* Godavari Biorefineries shares list at 12.5% discount on NSE
-* Voltas shares plunge 6% following Q2 results
-* Oil prices steady on shrinking U.S. crude inventories
-* Bitcoin rises past $70,000 for the first time since June
+1. **Gainers & Losers**: 
+   - Top Gainers:
+     - State Bank Of India share price 727.750.67%
+     - Icici Bank share price 1,250.250.62%
+     - Ntpc share price 331.700.48%
+     - Sun Pharmaceutical Industries share price 1,683.850.45%
+     - Tata Steel share price 150.850.37%
+   - Top Losers:
+     - Tata Motors share price 655.40-1.95%
+     - Indusind Bank share price 672.10-1.84%
+
+2. **Active Stocks**: 
+   - Indusind Bank share price 672.10 -1.84%
+   - Tata Steel share price 150.85 0.37%
+   - Icici Bank share price 1,250.25 0.62%
+   - Tata Motors share price 655.40 -1.95%
+   - Itc share price 411.85 -0.06%
+
+3. **Business News/ Latest News**:
+   - Muthoot Finance to be on focus on Monday as Gold Loan AUM surpasses ₹1 Lakh cr
+   - Nifty share price Holi 2025 outlook: Is it showing early revival signs now?
+
+Unfortunately, the provided text does not contain any specific stock market news. However, I can provide some general information on how to extract stock market news from a text:
+
+To extract stock market news from a text, you can look for keywords such as:
+
+* "Stock market"
+* "Market trends"
+* "Company earnings"
+* "Stock prices"
+* "IPO" (Initial Public Offering)
+* "M&A" (Merger and Acquisition)
+* "Earnings reports"
+
+You can also search for news related to specific companies or industries, such as "Tesla stock price" or "Amazon earnings report".
+
+If you provide the full text, I can help you extract the relevant information.
+
+Here is the extracted stock market news:
+
+1. LG Electronics India gets Sebi's nod to float IPO
+2. Blackstone to acquire 14.3% stake in Kolte Patil Developers
+3. India’s biggest lender SBI to set up AI, fintech project finance unit
+4. Food inflation still pinched in February despite hitting a 21-month low
+5. Indian refiners turn to Latin America, Africa to replace Russian oil in Feb
+6. Chip giants eye India: Infineon, Onsemi reportedly seek local partners for OSAT facilities
+
+Here are some stock market news extracted from the given text:
+
+**Top Gainers**
+
+* SBI (Bharat Elec): Price changed by 3.24% to Rs 280.07
+* ICICI Bank: Price increased by 6.10% to Rs 1250.25
+* NTPC: Price rose by 1.75% to Rs 331.90
+
+**Top Losers**
+
+* Tata Motors: Price decreased by 2.25% to Rs 655.40
+* Hindalco: Price fell by 1.81% to Rs 677.35
+* IndusInd Bank: Price dropped by 1.80% to Rs 672.35
+
+**Top Companies**
+
+* Apple Inc: Market capitalization decreased by 3.49% to $2,169.94 billion
+* Microsoft: Market capitalization fell by 4.58% to $2,816.26 billion
+* Walmart: Market capitalization increased by 0.59% to $680.91 billion
+
+**Commodity Prices**
+
+* Gold price remained unchanged at Rs 87,775.00 per 10 gm
+* Silver price dropped by 0.09% to Rs 100,450.00 per kg
+* Crude oil price decreased by 2.03% to Rs 5,787.00 per barrel
+
+**Top Gainers and Losers**
+
+* Zomato: Price fell by 1.97% to Rs 201.40
+* Asian Paints: Price dropped by 0.98% to Rs 2,228.95
+
+Unfortunately, there is no specific stock market news mentioned in the provided text. The text appears to be a collection of various topics such as technology, entertainment, health, education, personal finance, and more, but does not contain any information about stocks or the stock market.
 
 Here are the extracted stock market news:
 
-**Top Gainers in India**
+1. **Nifty bounces**: The Nifty ended with a loss while Nifty Bank closed almost on a flat note; a narrow range week ended.
+2. **Bank NIFTY volatile**: BANK NIFTY moved very volatile and narrowly today.
+3. **Industrial metal prices jump**: Prices for the industrial metal jumped after Trump told Congress he would impose 25% tariffs on copper imports, surprising traders.
+4. **Rupee falls**: The Rupee started fresh week with steep fall of more than 35 paisa against the US dollar in early trade.
+5. **F&O Advice**: It has been a week of unprecedented events that unfolded leading to some sharp drawdown on the broader indices.
+6. **IPO news**:
+	* Allchem Lifescience files IPO papers
+	* Super Iron Foundry IPO bought 1.5 times on final day, check listing & allotment dates
 
-* Adani Enterprises (110.30%, 3.87%)
-* TATA Cons. Prod (29.80%, 3.00%)
-* Hero Motocorp (123.40%, 2.58%)
-* Britannia (120.15%, 2.12%)
-* IndusInd Bank (21.40%, 2.06%)
+These are the only stock market-related news extracted from the given text.
 
-**Top Losers in India**
+Here are the extracted stock market news:
 
-* Cipla (-60.55%, -4.10%)
-* Shriram Finance (-77.75%, -2.38%)
-* HDFC Life (-16.10%, -2.17%)
-* SBI Life Insura (-34.40%, -2.07%)
-* Infosys (-36.90%, -2.01%)
+1. "Stocks" were mentioned in the context of being recommended by SBI Securities' analyst Sudeep Shah, who suggested two stocks that can brighten a portfolio.
+2. The prices of two specific stocks, Solar Ind and CG Consumer, were given: 
+   - Solar Ind was priced at Rs 10063.80.
+   - CG Consumer was priced at Rs 343.60.
+3. There was also a mention of "trade spotlight" which implies some sort of analysis or highlight on certain stocks.
 
-**Top Gainers in US**
-
-* Salesforce.com (4.98%, 1.69%)
-* Boeing (2.19%, 1.45%)
-* Microsoft (5.45%, 1.28%)
-* Amazon (2.32%, 1.23%)
-* Cisco Systems (0.40%, 0.72%)
-
-**Top Losers in US**
-
-* Home Depot (-8.14%, -2.02%)
-* Coca-Cola (-1.08%, -1.62%)
-* Travelers Companies (-3.69%, -1.46%)
-* Chevron (-2.13%, -1.41%)
-* Walmart (-1.07%, -1.29%)
-
-**Top Companies in US**
-
-* Apple (0.32%, $3,610.00)
-* Microsoft (5.45%, $3,211.06)
-* Amazon (2.32%, $1,981.81)
-* Walmart (81.72%, $658.50)
-* JPMorgan Chase (-2.59%)
-
-There is no specific stock market information in the provided text. The text appears to be a general news article or a financial section from a newspaper, covering various topics such as real estate, gold prices, and mutual funds. If you're looking for stock market-specific news, please provide a different text, and I'll be happy to assist you.
+Note that these are the only explicit stock market news mentioned in the text. If you'd like me to extract any other type of financial information, please let me know!
 
 Here is the extracted stock market news:
 
-- LIC Housing Fin 634.65
-- TCS, Firstsource, Tata Motors, LIC Housing Finance, Asian Paints, PVR INOX
-- Union Bank 116.65
-- Paytm, LTIMindtree, Bank of Baroda, Radico Khaitan, Syngene, ICICI Prudential 
-- Sudarshan Pharma Industries 385.10 18.30 (4.99%)
-- Taylormade Renewables 448.95 74.80 (19.99%)
-- Wockhardt 1158.20 55.15 (5%)
-- Seya Industries 27.10 1.29 (5%)
-- Omax Autos 122.50 11.10 (9.96%)
-- Kitex Garments 565.00 26.90 (5%)
-- Gretex Industries 232.95 11.05 (4.98%)
-- Sellwin Traders 1:8 31-10-2024
-- Master Trust 5 1 30-10-2024
-- KCK Ind 10 2 30-10-2024
-- Sellwin Traders 10 2 31-10-2024
-- Systematix Corp 10 1 05-11-2024
-- Asian Petro 11:6 10 30-10-24
+* Reliance Infocomm has dropped 9.15% to Rs1247.90 after a poor earnings report.
+* Sundry Debtors of some listed companies remain unaccounted for in their latest annual reports, raising concerns over possible irregularities.
 
-Here's the extracted stock market news:
+However, there are also some announcements and updates about certain companies:
 
-* HDFC Bank and Kotak Bank are in focus.
-* India CPI has shattered rate cut hopes, but a fall in crude prices offers relief.
-* Bajaj Auto and HDFC Life are in focus.
-* The market is expected to be volatile amid positive global cues.
-* Angel One and Macrotech are in focus.
-* Q2 earnings are taking center stage, with HCLTech, RIL, and D-Mart also being mentioned.
-* The rise of Ananya Panday into the brand "Ananya" is also discussed.
-* Bajaj Auto has launched the Pulsar N125 at a starting price of Rs 94,707.
-* Ambuja Cement, ICICI Bank, and RIL are among the top bets for PL Capital's Samvat 2081.
-* Aditya Birla Capital's Q2 net profit is up 42% to Rs 1,001 crore.
-* The Central bank holds a total of 855 tonnes of gold, out of which around 510.5 tonnes are held inside the country.
-* Gold prices have fallen 0.48% on October 25, with the price at Rs 77,622.
-* Wealth managers are recommending multi-asset funds amid volatility in equities.
-* Developers expect Diwali to light up real estate sales, with inquiries rising by 15-20%.
-* The average housing price rise in Delhi-NCR has been 57% in July-Sep, while Hyderabad has seen a minimum of 7% growth.
+* Certain Companies' Total Assets have increased by certain percentage.
+* Investments made by certain companies have been reported.
+* EPS (Earnings Per Share) of certain companies has been mentioned.
+ 
+But no specific news is given for other listed companies.
 
-HDFC Bank, Kotak Bank in focus | Market Minutes India CPI shatters rate cut hopes, fall in crude prices offer relief; Bajaj Auto, HDFC Life in focus | Market Minutes Will bulls solidify the market upmove amid positive global cues? Angel One, Macrotech in focus | Market Minutes
+Here are some key stock market news and updates extracted from the text:
+
+1. **SEBI's Market Call**: The Securities and Exchange Board of India (SEBI) has issued a market call, warning investors to be cautious in the current market conditions.
+2. **IT Slowdown**: There is a slowdown in the IT sector, which could impact the stock market negatively.
+3. **Starlink's Pricing Puzzle**: Starlink's pricing puzzle has raised concerns among investors, as it may affect the company's growth prospects.
+4. **Flipkart's Super Money**: Flipkart's Super Money program has reshaped the UPI (Unified Payments Interface) race, making it a competitive space for digital payments.
+5. **Narayana Murthy Criticizes Shallow AI**: Narayana Murthy, co-founder of Infosys, has criticized the shallow implementation of Artificial Intelligence (AI) in the Indian IT sector.
+6. **Nifty and Sensex Performance**: The current performance of Nifty and Sensex is uncertain due to softening US and domestic CPI numbers.
+7. **Mumbai Housing Project**: Adani Group is set to bag a $4.1 billion Mumbai housing project, marking a significant investment in the city's real estate sector.
+
+These are some key stock market news and updates extracted from the text.

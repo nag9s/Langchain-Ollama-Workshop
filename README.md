@@ -19,11 +19,25 @@ for sheldon model  Ref Video 3 . 12
 05 Done    Video 07 Works , need to see once
 06 Done    Video 08 Works , need to see once
 07 Ignore ( Own Chatbot application )    Video 09 Resume from here   ModuleNotFoundError: No module named 'streamlit'  
-08 Ignore ( Loaders )    Video 10 , 11, 12, 13
+08   01 works   Video 10 
+        , 11, 12, 13
 09    Done         Video 14 Works
 10    Done  Video 15 works
 
+# Labs
 
+Tools:
+======
+1. chrome
+2. Firefox
+3. PyCharm
+4. Vscode
+5. Anaconda python 3.12
+6. langchain
+7. Git
+8. Java
+9. Libreoffice
+10. Docker 
 
 
 # Errors
