@@ -14,3 +14,8 @@ pip install -r requirements.txt
 
 # misc
 pip cache purge
+
+
+# Optional Setup Git 
+git config --global user.name myusername
+git config --global user.email myemail

@@ -2,6 +2,7 @@
 
 ## Installation
 Download the latest version of Ollama from the [official website](https://ollama.com)
+curl -fsSL https://ollama.com/install.sh | sh
 
 
 ### Ollama CLI Cheat Sheet
