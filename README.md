@@ -48,3 +48,70 @@ OutputParserException: Failed to parse Joke from completion [{"$schema": "https:
     For further information visit https://errors.pydantic.dev/2.10/v/model_type
 For troubleshooting, visit: https://python.langchain.com/docs/troubleshooting/errors/OUTPUT_PARSING_FAILURE 
 Output is truncated. View as a scrollable element or open in a text editor. Adjust cell output settings...
+
+# Docker Container
+
+docker run -it -v %cd%:/app quay.io/jupyter/datascience-notebook:latest /bin/bash       -- interactive mode
+jupyter-lab --allow-root --ip=0.0.0.0 --no-browser --notebook-dir=/app
+docker run -it -v %cd%:/app quay.io/jupyter/datascience-notebook:latest -- to run as notebook
+
+## incase if facing issue with sudo while installing ollma
+
+To install Ollama in an existing Docker container, follow these steps:
+
+1. Find the container ID of your running container:
+    ```sh
+    docker ps
+    ```
+
+2. Attach to the running container as the root user:
+    ```sh
+    docker exec -it --user root <container_id> /bin/bash
+    ```
+
+3. Grant sudo privileges to the `jovyan` user:
+    ```sh
+    echo "jovyan ALL=(ALL) NOPASSWD:ALL" >> /etc/sudoers
+    ```
+
+4. Switch back to the `jovyan` user:
+    ```sh
+    su jovyan
+    ```
+
+5. Install Ollama:
+    ```sh
+    sudo curl -fsSL https://ollama.com/install.sh | sh
+
+# Setting Up JupyterLab with Conda Kernel
+
+# Setting Up JupyterLab with Conda Kernel
+
+1. Create and activate your conda environment:
+    ```sh
+    conda create -n ml python=3.12.4 -y ( optional)
+    conda activate ml
+    pip install -r requirements.txt
+    ```
+
+2. Install `ipykernel` in your conda environment:
+    ```sh
+    pip install ipykernel
+    ```
+
+3. Create a new Jupyter kernel for your conda environment:
+    ```sh
+    python -m ipykernel install --user --name ml --display-name "Python (ml)"
+    ```
+
+4. Start JupyterLab:
+    ```sh
+    jupyter-lab --allow-root --ip=0.0.0.0 --no-browser --notebook-dir=/app
+    OR 
+    To run in background
+    nohup jupyter-lab --allow-root --ip=0.0.0.0 --no-browser --notebook-dir=/app > jupyterlab.log 2>&1 &
+
+    tail -f jupyterlab.log
+    ```
+
+5. Open JupyterLab in your browser and select the "Python (ml)" kernel.

@@ -1,0 +1,67 @@
+nohup: ignoring input
+[I 2025-03-21 05:02:12.902 ServerApp] jupyter_lsp | extension was successfully linked.
+[I 2025-03-21 05:02:12.906 ServerApp] jupyter_server_mathjax | extension was successfully linked.
+[I 2025-03-21 05:02:12.906 ServerApp] jupyter_server_proxy | extension was successfully linked.
+[I 2025-03-21 05:02:12.909 ServerApp] jupyter_server_terminals | extension was successfully linked.
+[I 2025-03-21 05:02:12.913 ServerApp] jupyterlab | extension was successfully linked.
+[I 2025-03-21 05:02:12.913 ServerApp] jupyterlab_git | extension was successfully linked.
+[I 2025-03-21 05:02:12.925 ServerApp] nbclassic | extension was successfully linked.
+[I 2025-03-21 05:02:12.926 ServerApp] nbdime | extension was successfully linked.
+[I 2025-03-21 05:02:12.930 ServerApp] notebook | extension was successfully linked.
+[I 2025-03-21 05:02:12.932 ServerApp] Writing Jupyter server cookie secret to /home/jovyan/.local/share/jupyter/runtime/jupyter_cookie_secret
+[I 2025-03-21 05:02:13.129 ServerApp] notebook_shim | extension was successfully linked.
+[I 2025-03-21 05:02:13.142 ServerApp] notebook_shim | extension was successfully loaded.
+[I 2025-03-21 05:02:13.145 ServerApp] jupyter_lsp | extension was successfully loaded.
+[I 2025-03-21 05:02:13.145 ServerApp] jupyter_server_mathjax | extension was successfully loaded.
+[I 2025-03-21 05:02:13.164 ServerApp] jupyter_server_proxy | extension was successfully loaded.
+[I 2025-03-21 05:02:13.165 ServerApp] jupyter_server_terminals | extension was successfully loaded.
+[I 2025-03-21 05:02:13.167 LabApp] JupyterLab extension loaded from /opt/conda/lib/python3.12/site-packages/jupyterlab
+[I 2025-03-21 05:02:13.168 LabApp] JupyterLab application directory is /opt/conda/share/jupyter/lab
+[I 2025-03-21 05:02:13.168 LabApp] Extension Manager is 'pypi'.
+[I 2025-03-21 05:02:13.178 ServerApp] jupyterlab | extension was successfully loaded.
+[I 2025-03-21 05:02:13.182 ServerApp] jupyterlab_git | extension was successfully loaded.
+[I 2025-03-21 05:02:13.185 ServerApp] nbclassic | extension was successfully loaded.
+[I 2025-03-21 05:02:13.226 ServerApp] nbdime | extension was successfully loaded.
+[I 2025-03-21 05:02:13.230 ServerApp] notebook | extension was successfully loaded.
+[I 2025-03-21 05:02:13.231 ServerApp] Serving notebooks from local directory: /app
+[I 2025-03-21 05:02:13.231 ServerApp] Jupyter Server 2.15.0 is running at:
+[I 2025-03-21 05:02:13.231 ServerApp] http://6cf04b5eb77e:8888/lab?token=df1dac2e707273a206b821ee2b0597b1d79bc0d479eee514
+[I 2025-03-21 05:02:13.231 ServerApp]     http://127.0.0.1:8888/lab?token=df1dac2e707273a206b821ee2b0597b1d79bc0d479eee514
+[I 2025-03-21 05:02:13.231 ServerApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 2025-03-21 05:02:13.234 ServerApp] 
+    
+    To access the server, open this file in a browser:
+        file:///home/jovyan/.local/share/jupyter/runtime/jpserver-1363-open.html
+    Or copy and paste one of these URLs:
+        http://6cf04b5eb77e:8888/lab?token=df1dac2e707273a206b821ee2b0597b1d79bc0d479eee514
+        http://127.0.0.1:8888/lab?token=df1dac2e707273a206b821ee2b0597b1d79bc0d479eee514
+[I 2025-03-21 05:02:13.863 ServerApp] Skipped non-installed server(s): bash-language-server, dockerfile-language-server-nodejs, javascript-typescript-langserver, jedi-language-server, julia-language-server, pyright, python-language-server, python-lsp-server, r-languageserver, sql-language-server, texlab, typescript-language-server, unified-language-server, vscode-css-languageserver-bin, vscode-html-languageserver-bin, vscode-json-languageserver-bin, yaml-language-server
+[W 2025-03-21 05:02:35.637 LabApp] Could not determine jupyterlab build status without nodejs
+[E 2025-03-21 05:02:37.171 ServerApp] {
+      "Host": "127.0.0.1:8888",
+      "Accept": "*/*",
+      "Referer": "http://127.0.0.1:8888/lab",
+      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36"
+    }
+[E 2025-03-21 05:02:37.172 ServerApp] 500 POST /git/show_prefix?1742533357144 (b1170cd247c749bdaf70d33767229a55@172.17.0.1) 24.55ms referer=http://127.0.0.1:8888/lab
+[E 2025-03-21 05:03:47.052 ServerApp] {
+      "Host": "127.0.0.1:8888",
+      "Accept": "*/*",
+      "Referer": "http://127.0.0.1:8888/lab",
+      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36"
+    }
+[E 2025-03-21 05:03:47.052 ServerApp] 500 POST /git/02.%20Langchain%20Getting%20Started/show_prefix?1742533427031 (b1170cd247c749bdaf70d33767229a55@172.17.0.1) 18.57ms referer=http://127.0.0.1:8888/lab
+[I 2025-03-21 05:03:49.912 ServerApp] Writing notebook-signing key to /home/jovyan/.local/share/jupyter/notebook_secret
+[W 2025-03-21 05:03:49.917 ServerApp] Notebook 02. Langchain Getting Started/Langchain Getting Started.ipynb is not trusted
+[I 2025-03-21 05:03:50.367 ServerApp] Kernel started: 8592cf10-5991-4055-8e45-a980fd34ade2
+[I 2025-03-21 05:03:51.453 ServerApp] Connecting to kernel 8592cf10-5991-4055-8e45-a980fd34ade2.
+[I 2025-03-21 05:03:51.469 ServerApp] Connecting to kernel 8592cf10-5991-4055-8e45-a980fd34ade2.
+[I 2025-03-21 05:03:51.486 ServerApp] Connecting to kernel 8592cf10-5991-4055-8e45-a980fd34ade2.
+[W 2025-03-21 05:03:51.575 ServerApp] Got events for closed stream <zmq.eventloop.zmqstream.ZMQStream object at 0x7eff985afce0>
+[I 2025-03-21 05:04:01.737 ServerApp] Kernel started: 4e8b740a-ad2c-44b9-b3d5-bda8c3e96ba2
+[I 2025-03-21 05:04:01.741 ServerApp] Kernel shutdown: 8592cf10-5991-4055-8e45-a980fd34ade2
+[I 2025-03-21 05:04:02.257 ServerApp] Connecting to kernel 4e8b740a-ad2c-44b9-b3d5-bda8c3e96ba2.
+[I 2025-03-21 05:04:02.279 ServerApp] Connecting to kernel 4e8b740a-ad2c-44b9-b3d5-bda8c3e96ba2.
+[W 2025-03-21 05:04:02.314 ServerApp] Got events for closed stream <zmq.eventloop.zmqstream.ZMQStream object at 0x7eff985b4bc0>
+[I 2025-03-21 05:05:50.573 ServerApp] Saving file at /02. Langchain Getting Started/Langchain Getting Started.ipynb
+[W 2025-03-21 05:05:50.574 ServerApp] Notebook 02. Langchain Getting Started/Langchain Getting Started.ipynb is not trusted
