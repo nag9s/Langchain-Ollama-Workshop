@@ -63,7 +63,7 @@ Output is truncated. View as a scrollable element or open in a text editor. Adju
 # Docker Container
 
 docker run -it -v %cd%:/app quay.io/jupyter/datascience-notebook:latest /bin/bash       -- interactive mode
-jupyter-lab --allow-root --ip=0.0.0.0 --no-browser --notebook-dir=/app
+
 docker run -it -v %cd%:/app quay.io/jupyter/datascience-notebook:latest -- to run as notebook
 
 ## incase if facing issue with sudo while installing ollma

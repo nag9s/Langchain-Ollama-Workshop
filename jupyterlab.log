@@ -1,68 +1,128 @@
 nohup: ignoring input
-[I 2025-03-21 05:02:12.902 ServerApp] jupyter_lsp | extension was successfully linked.
-[I 2025-03-21 05:02:12.906 ServerApp] jupyter_server_mathjax | extension was successfully linked.
-[I 2025-03-21 05:02:12.906 ServerApp] jupyter_server_proxy | extension was successfully linked.
-[I 2025-03-21 05:02:12.909 ServerApp] jupyter_server_terminals | extension was successfully linked.
-[I 2025-03-21 05:02:12.913 ServerApp] jupyterlab | extension was successfully linked.
-[I 2025-03-21 05:02:12.913 ServerApp] jupyterlab_git | extension was successfully linked.
-[I 2025-03-21 05:02:12.925 ServerApp] nbclassic | extension was successfully linked.
-[I 2025-03-21 05:02:12.926 ServerApp] nbdime | extension was successfully linked.
-[I 2025-03-21 05:02:12.930 ServerApp] notebook | extension was successfully linked.
-[I 2025-03-21 05:02:12.932 ServerApp] Writing Jupyter server cookie secret to /home/jovyan/.local/share/jupyter/runtime/jupyter_cookie_secret
-[I 2025-03-21 05:02:13.129 ServerApp] notebook_shim | extension was successfully linked.
-[I 2025-03-21 05:02:13.142 ServerApp] notebook_shim | extension was successfully loaded.
-[I 2025-03-21 05:02:13.145 ServerApp] jupyter_lsp | extension was successfully loaded.
-[I 2025-03-21 05:02:13.145 ServerApp] jupyter_server_mathjax | extension was successfully loaded.
-[I 2025-03-21 05:02:13.164 ServerApp] jupyter_server_proxy | extension was successfully loaded.
-[I 2025-03-21 05:02:13.165 ServerApp] jupyter_server_terminals | extension was successfully loaded.
-[I 2025-03-21 05:02:13.167 LabApp] JupyterLab extension loaded from /opt/conda/lib/python3.12/site-packages/jupyterlab
-[I 2025-03-21 05:02:13.168 LabApp] JupyterLab application directory is /opt/conda/share/jupyter/lab
-[I 2025-03-21 05:02:13.168 LabApp] Extension Manager is 'pypi'.
-[I 2025-03-21 05:02:13.178 ServerApp] jupyterlab | extension was successfully loaded.
-[I 2025-03-21 05:02:13.182 ServerApp] jupyterlab_git | extension was successfully loaded.
-[I 2025-03-21 05:02:13.185 ServerApp] nbclassic | extension was successfully loaded.
-[I 2025-03-21 05:02:13.226 ServerApp] nbdime | extension was successfully loaded.
-[I 2025-03-21 05:02:13.230 ServerApp] notebook | extension was successfully loaded.
-[I 2025-03-21 05:02:13.231 ServerApp] Serving notebooks from local directory: /app
-[I 2025-03-21 05:02:13.231 ServerApp] Jupyter Server 2.15.0 is running at:
-[I 2025-03-21 05:02:13.231 ServerApp] http://6cf04b5eb77e:8888/lab?token=df1dac2e707273a206b821ee2b0597b1d79bc0d479eee514
-[I 2025-03-21 05:02:13.231 ServerApp]     http://127.0.0.1:8888/lab?token=df1dac2e707273a206b821ee2b0597b1d79bc0d479eee514
-[I 2025-03-21 05:02:13.231 ServerApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
-[C 2025-03-21 05:02:13.234 ServerApp] 
+[I 2025-03-21 08:54:45.901 ServerApp] jupyter_lsp | extension was successfully linked.
+[I 2025-03-21 08:54:45.904 ServerApp] jupyter_server_mathjax | extension was successfully linked.
+[I 2025-03-21 08:54:45.905 ServerApp] jupyter_server_proxy | extension was successfully linked.
+[I 2025-03-21 08:54:45.908 ServerApp] jupyter_server_terminals | extension was successfully linked.
+[I 2025-03-21 08:54:45.911 ServerApp] jupyterlab | extension was successfully linked.
+[I 2025-03-21 08:54:45.911 ServerApp] jupyterlab_git | extension was successfully linked.
+[I 2025-03-21 08:54:45.914 ServerApp] nbclassic | extension was successfully linked.
+[I 2025-03-21 08:54:45.914 ServerApp] nbdime | extension was successfully linked.
+[I 2025-03-21 08:54:45.921 ServerApp] notebook | extension was successfully linked.
+[I 2025-03-21 08:54:46.802 ServerApp] notebook_shim | extension was successfully linked.
+[I 2025-03-21 08:54:46.831 ServerApp] notebook_shim | extension was successfully loaded.
+[I 2025-03-21 08:54:46.834 ServerApp] jupyter_lsp | extension was successfully loaded.
+[I 2025-03-21 08:54:46.835 ServerApp] jupyter_server_mathjax | extension was successfully loaded.
+[I 2025-03-21 08:54:46.857 ServerApp] jupyter_server_proxy | extension was successfully loaded.
+[I 2025-03-21 08:54:46.860 ServerApp] jupyter_server_terminals | extension was successfully loaded.
+[I 2025-03-21 08:54:46.959 LabApp] JupyterLab extension loaded from /opt/conda/lib/python3.12/site-packages/jupyterlab
+[I 2025-03-21 08:54:46.959 LabApp] JupyterLab application directory is /opt/conda/share/jupyter/lab
+[I 2025-03-21 08:54:46.960 LabApp] Extension Manager is 'pypi'.
+[I 2025-03-21 08:54:46.971 ServerApp] jupyterlab | extension was successfully loaded.
+[I 2025-03-21 08:54:46.975 ServerApp] jupyterlab_git | extension was successfully loaded.
+[I 2025-03-21 08:54:47.003 ServerApp] nbclassic | extension was successfully loaded.
+[I 2025-03-21 08:54:47.294 ServerApp] nbdime | extension was successfully loaded.
+[I 2025-03-21 08:54:47.299 ServerApp] notebook | extension was successfully loaded.
+[I 2025-03-21 08:54:47.302 ServerApp] Serving notebooks from local directory: /app
+[I 2025-03-21 08:54:47.302 ServerApp] Jupyter Server 2.15.0 is running at:
+[I 2025-03-21 08:54:47.303 ServerApp] http://6cf04b5eb77e:8888/lab?token=607f3b5c2be5fae1ddc385ef4acef1207a6acbc7b98062ad
+[I 2025-03-21 08:54:47.303 ServerApp]     http://127.0.0.1:8888/lab?token=607f3b5c2be5fae1ddc385ef4acef1207a6acbc7b98062ad
+[I 2025-03-21 08:54:47.304 ServerApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 2025-03-21 08:54:47.310 ServerApp] 
     
     To access the server, open this file in a browser:
-        file:///home/jovyan/.local/share/jupyter/runtime/jpserver-1363-open.html
+        file:///home/jovyan/.local/share/jupyter/runtime/jpserver-341-open.html
     Or copy and paste one of these URLs:
-        http://6cf04b5eb77e:8888/lab?token=df1dac2e707273a206b821ee2b0597b1d79bc0d479eee514
-        http://127.0.0.1:8888/lab?token=df1dac2e707273a206b821ee2b0597b1d79bc0d479eee514
-[I 2025-03-21 05:02:13.863 ServerApp] Skipped non-installed server(s): bash-language-server, dockerfile-language-server-nodejs, javascript-typescript-langserver, jedi-language-server, julia-language-server, pyright, python-language-server, python-lsp-server, r-languageserver, sql-language-server, texlab, typescript-language-server, unified-language-server, vscode-css-languageserver-bin, vscode-html-languageserver-bin, vscode-json-languageserver-bin, yaml-language-server
-[W 2025-03-21 05:02:35.637 LabApp] Could not determine jupyterlab build status without nodejs
-[E 2025-03-21 05:02:37.171 ServerApp] {
+        http://6cf04b5eb77e:8888/lab?token=607f3b5c2be5fae1ddc385ef4acef1207a6acbc7b98062ad
+        http://127.0.0.1:8888/lab?token=607f3b5c2be5fae1ddc385ef4acef1207a6acbc7b98062ad
+[I 2025-03-21 08:54:52.449 ServerApp] Skipped non-installed server(s): bash-language-server, dockerfile-language-server-nodejs, javascript-typescript-langserver, jedi-language-server, julia-language-server, pyright, python-language-server, python-lsp-server, r-languageserver, sql-language-server, texlab, typescript-language-server, unified-language-server, vscode-css-languageserver-bin, vscode-html-languageserver-bin, vscode-json-languageserver-bin, yaml-language-server
+[W 2025-03-21 08:54:56.518 LabApp] Could not determine jupyterlab build status without nodejs
+[W 2025-03-21 08:54:57.153 ServerApp] 404 GET /api/contents/05.%20Output%20Parsing/without_parser.ipynb?content=0&hash=0&1742547297065 (b1170cd247c749bdaf70d33767229a55@172.17.0.1) 23.83ms referer=http://127.0.0.1:8888/lab
+[W 2025-03-21 08:54:57.154 ServerApp] 404 GET /api/contents/05.%20Output%20Parsing/without_parser.ipynb?content=0&hash=0&1742547297065 (172.17.0.1): No such file or directory: 05. Output Parsing/without_parser.ipynb
+[W 2025-03-21 08:54:57.166 ServerApp] 404 GET /api/contents/05.%20Output%20Parsing/Untitled.ipynb?content=0&hash=0&1742547297065 (b1170cd247c749bdaf70d33767229a55@172.17.0.1) 36.32ms referer=http://127.0.0.1:8888/lab
+[W 2025-03-21 08:54:57.166 ServerApp] 404 GET /api/contents/05.%20Output%20Parsing/Untitled.ipynb?content=0&hash=0&1742547297065 (172.17.0.1): No such file or directory: 05. Output Parsing/Untitled.ipynb
+[W 2025-03-21 08:54:59.058 ServerApp] Notebook 05. Output Parsing/Output Parsing_3_2_3_success.ipynb is not trusted
+[I 2025-03-21 08:55:00.154 ServerApp] Kernel started: 066f89ca-19d7-491e-9897-17729dec3be9
+[I 2025-03-21 08:55:00.155 ServerApp] Kernel started: 60be6edb-6ec5-4741-a8d7-f371a4e81469
+[I 2025-03-21 08:55:00.159 ServerApp] Kernel started: d68374aa-ba4d-43cf-b418-d3914ba839b2
+[I 2025-03-21 08:55:00.160 ServerApp] Kernel started: fd0738eb-f956-4e36-99ce-3b096c213a81
+[I 2025-03-21 08:55:00.585 ServerApp] Kernel started: dd8e433c-aee2-477b-bd65-52202e84179e
+[E 2025-03-21 08:55:01.029 ServerApp] {
       "Host": "127.0.0.1:8888",
       "Accept": "*/*",
       "Referer": "http://127.0.0.1:8888/lab",
       "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36"
     }
-[E 2025-03-21 05:02:37.172 ServerApp] 500 POST /git/show_prefix?1742533357144 (b1170cd247c749bdaf70d33767229a55@172.17.0.1) 24.55ms referer=http://127.0.0.1:8888/lab
-[E 2025-03-21 05:03:47.052 ServerApp] {
+[E 2025-03-21 08:55:01.031 ServerApp] 500 POST /git/05.%20Output%20Parsing/show_prefix?1742547300997 (b1170cd247c749bdaf70d33767229a55@172.17.0.1) 30.08ms referer=http://127.0.0.1:8888/lab
+[E 2025-03-21 08:55:01.095 ServerApp] {
       "Host": "127.0.0.1:8888",
       "Accept": "*/*",
       "Referer": "http://127.0.0.1:8888/lab",
       "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36"
     }
-[E 2025-03-21 05:03:47.052 ServerApp] 500 POST /git/02.%20Langchain%20Getting%20Started/show_prefix?1742533427031 (b1170cd247c749bdaf70d33767229a55@172.17.0.1) 18.57ms referer=http://127.0.0.1:8888/lab
-[I 2025-03-21 05:03:49.912 ServerApp] Writing notebook-signing key to /home/jovyan/.local/share/jupyter/notebook_secret
-[W 2025-03-21 05:03:49.917 ServerApp] Notebook 02. Langchain Getting Started/Langchain Getting Started.ipynb is not trusted
-[I 2025-03-21 05:03:50.367 ServerApp] Kernel started: 8592cf10-5991-4055-8e45-a980fd34ade2
-[I 2025-03-21 05:03:51.453 ServerApp] Connecting to kernel 8592cf10-5991-4055-8e45-a980fd34ade2.
-[I 2025-03-21 05:03:51.469 ServerApp] Connecting to kernel 8592cf10-5991-4055-8e45-a980fd34ade2.
-[I 2025-03-21 05:03:51.486 ServerApp] Connecting to kernel 8592cf10-5991-4055-8e45-a980fd34ade2.
-[W 2025-03-21 05:03:51.575 ServerApp] Got events for closed stream <zmq.eventloop.zmqstream.ZMQStream object at 0x7eff985afce0>
-[I 2025-03-21 05:04:01.737 ServerApp] Kernel started: 4e8b740a-ad2c-44b9-b3d5-bda8c3e96ba2
-[I 2025-03-21 05:04:01.741 ServerApp] Kernel shutdown: 8592cf10-5991-4055-8e45-a980fd34ade2
-[I 2025-03-21 05:04:02.257 ServerApp] Connecting to kernel 4e8b740a-ad2c-44b9-b3d5-bda8c3e96ba2.
-[I 2025-03-21 05:04:02.279 ServerApp] Connecting to kernel 4e8b740a-ad2c-44b9-b3d5-bda8c3e96ba2.
-[W 2025-03-21 05:04:02.314 ServerApp] Got events for closed stream <zmq.eventloop.zmqstream.ZMQStream object at 0x7eff985b4bc0>
-[I 2025-03-21 05:05:50.573 ServerApp] Saving file at /02. Langchain Getting Started/Langchain Getting Started.ipynb
-[W 2025-03-21 05:05:50.574 ServerApp] Notebook 02. Langchain Getting Started/Langchain Getting Started.ipynb is not trusted
-[I 2025-03-21 05:27:42.604 ServerApp] Saving file at /02. Langchain Getting Started/Langchain Getting Started.ipynb
+[E 2025-03-21 08:55:01.095 ServerApp] 500 POST /git/05.%20Output%20Parsing/show_prefix?1742547301002 (b1170cd247c749bdaf70d33767229a55@172.17.0.1) 89.05ms referer=http://127.0.0.1:8888/lab
+[I 2025-03-21 08:55:01.446 ServerApp] Connecting to kernel fd0738eb-f956-4e36-99ce-3b096c213a81.
+[I 2025-03-21 08:55:01.477 ServerApp] Connecting to kernel 066f89ca-19d7-491e-9897-17729dec3be9.
+[I 2025-03-21 08:55:01.500 ServerApp] Connecting to kernel fd0738eb-f956-4e36-99ce-3b096c213a81.
+[I 2025-03-21 08:55:01.565 ServerApp] Connecting to kernel d68374aa-ba4d-43cf-b418-d3914ba839b2.
+[I 2025-03-21 08:55:01.599 ServerApp] Connecting to kernel 60be6edb-6ec5-4741-a8d7-f371a4e81469.
+[I 2025-03-21 08:55:01.694 ServerApp] Connecting to kernel dd8e433c-aee2-477b-bd65-52202e84179e.
+[I 2025-03-21 08:56:28.145 ServerApp] Starting buffering for dd8e433c-aee2-477b-bd65-52202e84179e:391e92ad-b50e-45e4-b158-8a807282d324
+[I 2025-03-21 08:56:31.020 ServerApp] Starting buffering for 60be6edb-6ec5-4741-a8d7-f371a4e81469:2529d494-66f4-4b82-8906-b3af03fe2eaa
+[I 2025-03-21 08:56:35.258 ServerApp] Starting buffering for d68374aa-ba4d-43cf-b418-d3914ba839b2:c2c74511-9f2a-42e9-82a0-bf9bc7bccd63
+[I 2025-03-21 08:56:36.397 ServerApp] Starting buffering for fd0738eb-f956-4e36-99ce-3b096c213a81:4f947c4e-6883-496a-8e7d-61c1305fa407
+[E 2025-03-21 08:56:43.140 ServerApp] {
+      "Host": "127.0.0.1:8888",
+      "Accept": "*/*",
+      "Referer": "http://127.0.0.1:8888/lab/tree/Runnable.ipynb",
+      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36"
+    }
+[E 2025-03-21 08:56:43.141 ServerApp] 500 POST /git/show_prefix?1742547403128 (b1170cd247c749bdaf70d33767229a55@172.17.0.1) 11.36ms referer=http://127.0.0.1:8888/lab/tree/Runnable.ipynb
+[I 2025-03-21 08:56:58.474 ServerApp] Creating new directory in 
+[E 2025-03-21 08:57:21.720 ServerApp] {
+      "Host": "127.0.0.1:8888",
+      "Accept": "*/*",
+      "Referer": "http://127.0.0.1:8888/lab",
+      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36"
+    }
+[E 2025-03-21 08:57:21.720 ServerApp] 500 POST /git/RunnableInterface%20Demo/show_prefix?1742547441701 (b1170cd247c749bdaf70d33767229a55@172.17.0.1) 14.56ms referer=http://127.0.0.1:8888/lab
+[I 2025-03-21 08:57:49.259 ServerApp] Creating new notebook in /RunnableInterface Demo
+[I 2025-03-21 08:57:49.740 ServerApp] Kernel started: 70e5c852-b3b2-4aa9-9c2f-69c76d6963f3
+[I 2025-03-21 08:57:50.244 ServerApp] Connecting to kernel 70e5c852-b3b2-4aa9-9c2f-69c76d6963f3.
+[I 2025-03-21 08:57:50.259 ServerApp] Connecting to kernel 70e5c852-b3b2-4aa9-9c2f-69c76d6963f3.
+[I 2025-03-21 08:57:50.278 ServerApp] Connecting to kernel 70e5c852-b3b2-4aa9-9c2f-69c76d6963f3.
+[W 2025-03-21 08:57:50.332 ServerApp] Got events for closed stream <zmq.eventloop.zmqstream.ZMQStream object at 0x7f4fba59c6e0>
+[I 2025-03-21 09:00:05.445 ServerApp] Saving file at /RunnableInterface Demo/RunnableParallel demo.ipynb
+[I 2025-03-21 09:01:40.539 ServerApp] Saving file at /RunnableInterface Demo/RunnableParallel demo.ipynb
+[I 2025-03-21 09:03:40.637 ServerApp] Saving file at /RunnableInterface Demo/RunnableParallel demo.ipynb
+[I 2025-03-21 09:13:33.806 ServerApp] Copying 'RunnableInterface Demo/RunnableParallel_Demo_No_Parser.ipynb' to '/RunnableInterface Demo'
+[I 2025-03-21 09:13:54.086 ServerApp] Kernel started: 37ab227b-ed57-4f9e-b839-6c7726021da4
+[I 2025-03-21 09:13:54.603 ServerApp] Connecting to kernel 37ab227b-ed57-4f9e-b839-6c7726021da4.
+[I 2025-03-21 09:15:54.147 ServerApp] Saving file at /RunnableInterface Demo/RunnableParallel_Demo_Parser.ipynb
+[I 2025-03-21 09:17:51.646 ServerApp] Saving file at /RunnableInterface Demo/RunnableParallel_Demo_Parser.ipynb
+[I 2025-03-21 09:19:51.773 ServerApp] Saving file at /RunnableInterface Demo/RunnableParallel_Demo_Parser.ipynb
+[I 2025-03-21 09:21:18.838 ServerApp] Saving file at /RunnableInterface Demo/Runnable.ipynb
+[I 2025-03-21 09:21:28.145 ServerApp] Saving file at /RunnableInterface Demo/RunnableParallel_Demo_No_Parser.ipynb
+[I 2025-03-21 09:21:30.407 ServerApp] Kernel restarted: 066f89ca-19d7-491e-9897-17729dec3be9
+[I 2025-03-21 09:21:30.411 ServerApp] Starting buffering for 066f89ca-19d7-491e-9897-17729dec3be9:b9855f55-0563-4cc4-a1ba-f7f9a49d6837
+[I 2025-03-21 09:21:30.416 ServerApp] Connecting to kernel 066f89ca-19d7-491e-9897-17729dec3be9.
+[I 2025-03-21 09:21:30.416 ServerApp] Restoring connection for 066f89ca-19d7-491e-9897-17729dec3be9:b9855f55-0563-4cc4-a1ba-f7f9a49d6837
+[E 2025-03-21 09:21:55.466 ServerApp] {
+      "Host": "127.0.0.1:8888",
+      "Accept": "*/*",
+      "Referer": "http://127.0.0.1:8888/lab/tree/RunnableInterface%20Demo/Runnable.ipynb",
+      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36"
+    }
+[E 2025-03-21 09:21:55.468 ServerApp] 500 POST /git/show_prefix?1742548915452 (b1170cd247c749bdaf70d33767229a55@172.17.0.1) 12.11ms referer=http://127.0.0.1:8888/lab/tree/RunnableInterface%20Demo/Runnable.ipynb
+[E 2025-03-21 09:22:02.454 ServerApp] {
+      "Host": "127.0.0.1:8888",
+      "Accept": "*/*",
+      "Referer": "http://127.0.0.1:8888/lab/tree/RunnableInterface%20Demo/Runnable.ipynb",
+      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36"
+    }
+[E 2025-03-21 09:22:02.454 ServerApp] 500 POST /git/RunnableInterface%20Demo/show_prefix?1742548922441 (b1170cd247c749bdaf70d33767229a55@172.17.0.1) 10.17ms referer=http://127.0.0.1:8888/lab/tree/RunnableInterface%20Demo/Runnable.ipynb
+[I 2025-03-21 09:23:19.149 ServerApp] Saving file at /RunnableInterface Demo/Runnable.ipynb
+[I 2025-03-21 09:23:52.146 ServerApp] Saving file at /RunnableInterface Demo/RunnableParallel_Demo_Parser.ipynb
+[I 2025-03-21 09:25:52.231 ServerApp] Saving file at /RunnableInterface Demo/RunnableParallel_Demo_Parser.ipynb
+[I 2025-03-21 09:27:52.354 ServerApp] Saving file at /RunnableInterface Demo/RunnableParallel_Demo_Parser.ipynb
+[I 2025-03-21 09:31:53.167 ServerApp] Saving file at /RunnableInterface Demo/RunnableParallel_Demo_Parser.ipynb
+[I 2025-03-21 09:33:54.155 ServerApp] Saving file at /RunnableInterface Demo/RunnableParallel_Demo_Parser.ipynb
