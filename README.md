@@ -63,6 +63,7 @@ Output is truncated. View as a scrollable element or open in a text editor. Adju
 # Docker Container
 
 docker run -it -v %cd%:/app quay.io/jupyter/datascience-notebook:latest /bin/bash       -- interactive mode
+    -- ensure to run to by pass sudo user to install ollama, see instructions below
 
 docker run -it -v %cd%:/app quay.io/jupyter/datascience-notebook:latest -- to run as notebook
 
